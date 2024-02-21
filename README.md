@@ -8,6 +8,7 @@
 Me chamo Felipe Azevedo e sou Desenvolvedor Front-End.<br>
 Atualmente estou aprimorando meus conhecimentos e habilidades para ser um programador FullStack com o curso <a href="https://rodolfomori.com.br/devclub/" target="_blank">Dev Club</a>
 <br>
+<br>
 Focado em criar aplicações com:
 - 📱 Responsividade
 - 📈 Escalabilidade
