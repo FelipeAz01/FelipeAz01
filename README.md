@@ -31,11 +31,11 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente p
 
 ### Front End:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 
 ### Ferramentas e plataformas que utilizo:
 
-<img src="https://skillicons.dev/icons?i=windows,vscode,figma,github,"/>
+<img src="https://skillicons.dev/icons?i=windows,vscode,figma,github,git,figma,"/>
 </div>
 
 
