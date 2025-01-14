@@ -49,8 +49,8 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente p
 
 # Entre em contato:
 
-<a href="mailto:felipelemosaz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="24px" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/felipe-lemos-azevedo/"><img src="https://skillicons.dev/icons?i=linkedin" height="24px" alt="LinkedIn"></a>
+<a href="mailto:felipelemosaz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48px" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/felipe-lemos-azevedo/"><img src="https://skillicons.dev/icons?i=linkedin" height="48px" alt="LinkedIn"></a>
 
 </div>
 
