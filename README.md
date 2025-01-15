@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+me+chamo+Felipe+Azevedo.;Sou+Desenvolvedor+Front+End.;Bem-Vindo+!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo+!!;Me+chamo+Felipe+Lemos+de+Azevedo;Sou+Desenvolvedor+FRONT+END)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
