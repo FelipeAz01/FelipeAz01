@@ -31,7 +31,7 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente p
 
 ### Front End:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap"/>
 
 ### Ferramentas e plataformas que utilizo:
 
