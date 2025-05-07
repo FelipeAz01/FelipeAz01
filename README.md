@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo+!!;Me+chamo+Felipe+Lemos+de+Azevedo;Sou+Desenvolvedor+FRONT+END)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Bem+vindo+!!;Me+chamo+Felipe+Donda;Sou+Desenvolvedor+Web)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 </div>
 
-Olá, me chamo **Felipe Lemos de Azevedo**, tenho 26 anos, sou um **Desenvolvedor Full Stack**.
+Olá, me chamo **Felipe Lemos de Azevedo Donda**, tenho 26 anos, sou um **Desenvolvedor Full Stack**.
 
 Profissional motivado, com experiência em projetos pessoais na área de desenvolvimento web. Sempre em busca de aprendizado contínuo, com foco no desenvolvimento de interfaces modernas, responsivas e intuitivas.
 
