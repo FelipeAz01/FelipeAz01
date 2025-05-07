@@ -31,11 +31,11 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente p
 
 ### Front End:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind"/>
 
 ### Ferramentas e plataformas que utilizo:
 
-<img src="https://skillicons.dev/icons?i=windows,vscode,figma,github,git,figma,"/>
+<img src="https://skillicons.dev/icons?i=windows,vscode,figma,github,git"/>
 </div>
 
 
@@ -50,7 +50,7 @@ Atualmente, busco oportunidades para aplicar meus conhecimentos em um ambiente p
 # Entre em contato:
 
 <a href="mailto:felipelemosaz@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="48px" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/felipe-lemos-azevedo/"><img src="https://skillicons.dev/icons?i=linkedin" height="48px" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/felipeadonda/"><img src="https://skillicons.dev/icons?i=linkedin" height="48px" alt="LinkedIn"></a>
 
 </div>
 
